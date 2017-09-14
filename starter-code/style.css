@@ -1,0 +1,50 @@
+body {
+	background-color: #6F5F8E;
+	color: #FFFFFF;
+	text-align: center;
+	position: relative;
+}
+
+nav {
+	background-color: #FFFFFF;
+	height: 40px;
+}
+
+a:link {
+	font-size: 15px; /*not working*/
+	color: #800080;
+	text-decoration: underline;
+}
+
+h1 {
+	font-size: 40px;
+	text-decoration: underline;
+}
+
+main {
+	font-size: 25px;
+	color:;
+	margin: 0 40px;
+	font-family: 'Shadows Into Light', cursive;
+}
+
+img {
+	float: right;
+	display: inline;
+	margin-top: 40px;
+	border-radius: 50%;
+}
+
+h2 {
+	text-decoration: underline;
+}
+
+p {
+	width: 500px;
+	padding-left: 50px;
+}
+
+footer {
+	background-color: #FFFFFF;
+	height: 40px;
+}
